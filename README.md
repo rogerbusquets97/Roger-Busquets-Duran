@@ -1,5 +1,6 @@
 # UI
 ## Roger Busquets Duran
+![](http://imgur.com/aMrjX5e.png)
 ### Personal involment
 
 As part of the Ice Crew team, I was in charge of the User Interface. I implemented all the UI features in the game, ensuring with the designer and the artist that all the implementations were correct. Beyond my role, I also tried to help my teammates and solve bugs that were not from the UI. 
